@@ -3,4 +3,4 @@
 
 บทความ        [Medium](https://medium.com/@kodthepnaja/drum-notes-classification-bcd13e34b90f)
 
-Source code   [Goolge colab](https://colab.research.google.com/drive/1_X1YzqHPeR9z5P9Po15RwKShP7dba6YA#scrollTo=bWZa-7mIQUFW)
+Source code   [Goolge colab]([https://colab.research.google.com/drive/1_X1YzqHPeR9z5P9Po15RwKShP7dba6YA#scrollTo=bWZa-7mIQUFW](https://colab.research.google.com/drive/19G4bnPZqTSo_fB9B_wDiZvgmgcZqmYcP#scrollTo=1iNQ6Ty03GhH))
